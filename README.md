@@ -1,2 +1,2 @@
 # socialite-laravel
-#laravel soial auth by laravel socialit package
+#laravel soial auth by laravel socialit package in new branch
